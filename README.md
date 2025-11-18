@@ -1,101 +1,113 @@
-<!-- =========================
-     Profile README - sankum136
-     Paste this entire file into README.md
-     Replace placeholders (EMAIL, LINKS, PROJECTS) as needed
-     ========================= -->
+<!-- ================================
+     PREMIUM GRADIENT PORTFOLIO BANNER
+<!-- 🌌 QUANTUM GALAXY DEVELOPER BANNER — VERSION 14 -->
 
-<!-- Banner: Clean & Minimal -->
-![clean-banner](https://capsule-render.vercel.app/api?type=soft&color=3e7bf6&height=180&section=header&text=P.%20Sanjai%20Kumar&fontSize=40&fontColor=ffffff&animation=scaleIn)
-
-<h1 align="center">Hi 👋, I'm <b>P. Sanjai Kumar</b></h1>
 <p align="center">
-  <em>Java Developer • React Learner • Tech Enthusiast</em><br/>
-  <small>Always learning, always improving — one line of code at a time.</small>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SANJAI%20KUMAR&fontSize=58&fontAlignY=40&fontColor=FFFFFF&color=0:090979,50:4e0eff,100:00d4ff&animation=twinkling" />
 </p>
 
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>
+  FULL STACK DEVELOPER
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java" style="vertical-align:middle; margin-right:6px;" />
+  <strong style="font-size:18px">JAVA DEVELOPER</strong>
+</h2>
+     
+
+<!-- Portfolio + LinkedIn -->
+<p align="center">
+  <!-- Portfolio Button -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4C6AFA?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
 ---
 
-## 🚀 About Me
-- 💻 **Role:** Java Developer — building backend services and exploring full-stack development.  
-- 🌱 **Currently learning:** React, Redux, modern frontend tooling.  
-- 🎯 **Goals:** Improve English communication, strengthen DSA & architecture skills, and ship production-ready apps.  
-- 🔭 **Open to:** Contributing to open-source, junior-to-mid level roles, and collaborative projects.
+## 👋 About Me
+I am a passionate developer focused on writing clean, simple and scalable code.
+
+- 💻 **Java Developer**
+- 🌐 Building Full Stack Applications using Java & React
+- 🧠 Improving **DSA, clean code & communication**
+- 🚀 Becoming a full-stack developer
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
-**Languages & Platforms**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages  
+![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-2E9EB6?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend & Databases**
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend & Database  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D597F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23007D9C.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+### Tools  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-0F3558?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankum136&show_icons=true&theme=default&hide_border=true" height="170px" />
+  <img src="https://streak-stats.demolab.com?user=sankum136&theme=default&hide_border=true" height="170px" />
+</div>
+
+---
+
+## 🌐 Portfolio  
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sankum136&show_icons=true&theme=tokyonight" />
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sankum136&theme=tokyonight" />
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <b>🔗 Visit My Portfolio</b>
+  </a>
 </p>
 
 ---
 
-## 🧩 Top Projects
-> (Paste links to your repos or replace descriptions with your projects)
+## 🧩 Projects  
 
-- **Project-Name-1** — Short one-line description.  
-  `Tech:` Java • Spring Boot • MySQL — [Repo link](https://github.com/sankum136/REPO-NAME)
-- **Project-Name-2** — Short one-line description.  
-  `Tech:` React • Vite • CSS — [Repo link](https://github.com/sankum136/REPO-NAME)
-- **Project-Name-3** — Short one-line description.  
-  `Tech:` Java • Algorithms — [Repo link](https://github.com/sankum136/REPO-NAME)
+### 🔹 Project Title 1  
+Tech: Java • Spring Boot • MySQL  
+🔗 https://github.com/sankum136/REPO-1
 
-> Tip: Replace `REPO-NAME` above with your real repository names and add short screenshots or demo GIFs inside the repo README for each project.
+### 🔹 Project Title 2  
+Tech: React • Vite • CSS  
+🔗 https://github.com/sankum136/REPO-2
 
 ---
 
-## 📚 Learning / Mentions
-- Following a daily practice plan for **DSA** & **system design**.  
-- Studying front-end best practices (React patterns, hooks, state mgmt).
-
----
-
-## 📫 Connect with me
+## 📫 Contact
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">📧 Email</a> &nbsp; • &nbsp;
-  <a href="https://github.com/sankum136" target="_blank">🐙 GitHub</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">💼 LinkedIn</a> &nbsp; • &nbsp;
-  <a href="https://your-portfolio.com" target="_blank">🌐 Portfolio</a>
+  📧 Email: <b>your-email@example.com</b><br>
+  💼 LinkedIn: <i>(add link)</i>
 </p>
 
-> Replace `YOUR_EMAIL_HERE`, `YOUR-LINKEDIN`, and `your-portfolio.com` with your actual links.
-
 ---
 
-## ✨ Fun / Extras
-- 🎧 I listen to music while coding.  
-- ☕ Coffee-powered developer.
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/sankum136/count.svg)
-
----
+## 👀 Visitor Count  
+<p align="center">
+  <!-- Primary: compact visitor badge (komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=sankum136&color=2B4F60" alt="Profile visits" />
+</p>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  Made with ❤️ by **P. Sanjai Kumar** • Last updated: <!--keep this if you want to manually edit later--> 
+  Made with ❤️ by <b>P. Sanjai Kumar</b>
 </p>
